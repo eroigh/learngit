@@ -1,7 +1,7 @@
 
 This is a Git learning txt.
 
-来个文本文件。
+来个java文件。
 
 增加两行
 1234444= git svn
