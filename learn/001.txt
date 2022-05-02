@@ -7,3 +7,5 @@ This is a Git learning txt.
 1234444= git svn
 
 再来一行，看看工作区和版本库
+
+新增测试修改管理
