@@ -1,7 +1,7 @@
 
 This is a Git learning txt.
 
-来个python文件。
+来个Java文件。
 
 增加两行
 1234444= git svn
@@ -11,3 +11,7 @@ This is a Git learning txt.
 新增测试修改管理
 
 修改1，add， 增加了修改2000000000
+
+
+
+这是第一个文件001的修改
